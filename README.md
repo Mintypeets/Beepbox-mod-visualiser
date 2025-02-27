@@ -1,5 +1,5 @@
 # Beepbox-mod-visualiser
-this is a program which takes a .json file, exported from one of the many Beepbox.co mods (or itself), and generates a sequence of images, visualising each channel's notes
+this is a program which takes a .json file, exported from one of the many Beepbox.co mods (or itself), and generates a sequence of images, visualising each channels' notes
 
 i will refer to "beepbox or its mods" as just "beepbox" from now on in this document
 
@@ -27,3 +27,5 @@ you can try to fix/add that feature if you want
 I've went in before posting this to github and marked some stuff I didn't manage to add/finish or other things with a "MINT NOTE:" comment
 
 I made the "gaze star" version for a song I was working on, the song is still WIP as I've ran out of ideas, if you want you can try to merge it with the normal visualiser and add a star option in settings.txt
+
+you have to have python and pygame-ce downloaded for it to work from the script alone, otherwise I'd have to compile it into an executable file
