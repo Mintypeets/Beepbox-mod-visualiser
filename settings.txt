@@ -1,0 +1,8 @@
+{"kick channels": {},
+ "base note speed": 1.2,
+ "parallax increment": 0.05,
+ "darken notes factor": 0.5,
+ "start pitch HSV": "default",
+ "start drum HSV": "default",
+ "pitch hue increment": "default",
+ "drum hue increment": "default"}

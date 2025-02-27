@@ -1,3 +1,9 @@
+# this projects' specific files
+components/__pycache__/
+frames/
+*.png
+*.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
