@@ -7,7 +7,7 @@ i will refer to "beepbox or its mods" as just "beepbox" from now on in this docu
 - export your beepbox song in the .json file format
 - place the .json file in the same folder as the code, it doesn't matter how it's named
 
-- remember to update which channels in your song are the kick channel in settings.txt with its corresponding screen shake power level (for screenshake effect)
+- (optional) you can update which channels in your song are the kick channel in settings.txt with its corresponding screen shake power level (for screenshake effect)
 for example: '"kick channels": {"9": 1, "5": 3}' in this case, we have channel 6 with a power level of 3 and channel 10 with a power level of 1 
 (remember that the first channel is 0 unlike what beepbox have as their channel number (it starts at 1 in there))
 you can also play around with the other settings, just that they have to be in the correct format and value type
